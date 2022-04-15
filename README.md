@@ -1,16 +1,3 @@
-# tugas3
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![profil](https://user-images.githubusercontent.com/101057012/163546685-d4bffa39-8ecb-4631-9462-a37062a6ce2d.jpg)
+![Destinasi](https://user-images.githubusercontent.com/101057012/163546694-fbb5809e-a595-4833-b7c2-e35b33bd54f8.jpg)
+![Home](https://user-images.githubusercontent.com/101057012/163546697-5f15408d-a459-4550-b139-5cd1f3d56c03.jpg)
